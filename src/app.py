@@ -38,6 +38,13 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "AI & ML Club": {
+        "description": "Learn artificial intelligence and machine learning fundamentals with hands-on projects",
+        "schedule": "Wednesdays, 4:00 PM - 6:00 PM",
+        "max_participants": 20,
+        "participants": []
+
     }
 }
 
